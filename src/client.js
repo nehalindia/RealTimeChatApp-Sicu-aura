@@ -5,6 +5,12 @@ let textarea = document.querySelector('#textarea')
 let messageArea = document.querySelector('.message_area')
 
 do{
+    // let mark = `
+    //     <h3> name </h3>
+    //     <input placeholder=name/>
+    // `
+    // let login = document.createElement('div')
+    // login.innerHTML = mark
     name1 = prompt('please enter the name')
     // console.log(name1)
 }while(!name1)
